@@ -164,8 +164,4 @@ I have experimented a problem on my MacBook Pro - Yosemite 10.10.3 using RStudio
 This should prevent the download and allow the script to work normally.
 
 
-TODO: Use descriptive variable names, explain why they are descriptive
-TODO: Explain why other mean columns were left out
-TODO: Submit Quiz
-
 [1]: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
